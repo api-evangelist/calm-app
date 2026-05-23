@@ -1,0 +1,80 @@
+aid: calm-app
+url: https://raw.githubusercontent.com/api-evangelist/calm-app/refs/heads/main/apis.yml
+name: Calm
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Mental Health
+  - Meditation
+  - Sleep
+  - Mindfulness
+  - Consumer
+  - B2B
+  - Health Plans
+  - Employers
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+description: >-
+  Calm is a leading consumer mindfulness, meditation, and sleep app available on iOS, Android,
+  and web, with the consumer Calm app and the B2B Calm Health offering (formerly Calm Business,
+  now consolidated at health.calm.com). Calm Health serves health plans, employers, and
+  consultants with psychologist-developed clinical programs, validated mental health screenings
+  (PHQ/GAD), personalized action plans, and the full Calm mindfulness library. Partner
+  integration capabilities (eligibility files, SSO, SCIM, EHR/benefit-platform connectors)
+  are sold through Calm Health enterprise contracts and are not documented in a public
+  developer portal. There is no public REST API, no OpenAPI specification, and no self-serve
+  developer onboarding.
+apis: []
+common:
+  - type: Website
+    url: https://www.calm.com
+  - type: CalmHealth
+    url: https://health.calm.com
+  - type: ForHealthPlans
+    url: https://health.calm.com/health-plans
+  - type: ForEmployers
+    url: https://health.calm.com/employers
+  - type: ForConsultants
+    url: https://health.calm.com/consultants
+  - type: ClinicalPrograms
+    url: https://health.calm.com/clinical-programs
+  - type: Pricing
+    url: https://www.calm.com/subscribe
+  - type: Gift
+    url: https://www.calm.com/gift
+  - type: HelpCenter
+    url: https://support.calm.com
+  - type: Blog
+    url: https://www.calm.com/blog
+  - type: Newsroom
+    url: https://newsroom.calm.com
+  - type: Science
+    url: https://www.calm.com/science
+  - type: PrivacyPolicy
+    url: https://www.calm.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.calm.com/terms
+  - type: TrustCenter
+    url: https://health.calm.com/trust
+  - type: Careers
+    url: https://www.calm.com/careers
+  - type: iOSApp
+    url: https://apps.apple.com/us/app/calm/id571800810
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=com.calm.android
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/calm-com
+  - type: Twitter
+    url: https://x.com/calm
+  - type: Facebook
+    url: https://www.facebook.com/calm
+  - type: Instagram
+    url: https://www.instagram.com/calm/
+  - type: YouTube
+    url: https://www.youtube.com/c/calm
+  - type: Contact
+    url: https://health.calm.com/contact
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
