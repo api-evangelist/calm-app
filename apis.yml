@@ -27,6 +27,8 @@ description: >-
   developer onboarding.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/calm-app-domain-security.yml
   - type: Website
     url: https://www.calm.com
   - type: CalmHealth
