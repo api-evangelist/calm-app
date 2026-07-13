@@ -2,13 +2,14 @@
   "repo": "calm-app",
   "feeds": [
     {
-      "source": "https://www.calm.com/blog",
-      "feed_url": "",
-      "saved": 8,
-      "method": "agent-scrape"
+      "source": "https://support.calm.com",
+      "feed_url": "https://support.calm.com",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 25,
-  "fetched": "2026-06-27T12:29:51Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 30,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }
